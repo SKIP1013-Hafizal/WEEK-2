@@ -1,0 +1,23 @@
+package myLife;
+
+public class LifeInCampus {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("MY LIFE IN CAMPUS FOR 1 DAY");
+		System.out.println("6.00am : Wake Up ");
+		System.out.println("6:30am : Subuh Prayer And Preparing Going To Class");
+		System.out.println("7.15am : Breakfast");
+		System.out.println("8.00am : Start Class Learning");
+		System.out.println("1.00pm : Lunch Break And Zohor Prayer");
+		System.out.println("2.30pm : Continuing Class Session");
+		System.out.println("5.00pm : End Of Class And Asar Prayer");
+		System.out.println("6.00pm : Workout And Activities");
+		System.out.println("7.30pm : Preparing For Maghrib Prayer And Dinner");
+		System.out.println("9.00pm : Preparing For Isya Prayer And Doing Programming Work");
+		System.out.println("12.00am : Sleep");
+		
+
+	}
+
+}
